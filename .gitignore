@@ -1,1 +1,5 @@
 __pycache__/
+build/
+build64.bat
+build32.bat
+setup.py
